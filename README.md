@@ -1,2 +1,2 @@
-# generate-captcha
+# Generate Captcha
 Generate Captcha with Noise
