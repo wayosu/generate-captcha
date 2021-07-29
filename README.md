@@ -1,5 +1,5 @@
 # Generate Captcha
-Generate Captcha with Noise
+Generate Captcha dengan mudah menggunakan bahasa PHP
 
 ## Mengapa kita perlu menggunakan Captcha ?
 CAPTCHA membantu melindungi dari dekripsi spam dan sandi dengan meminta Anda menyelesaikan pengujian sederhana, yang membuktikan bahwa Anda adalah manusia dan bukan komputer yang mencoba menyusup ke dalam akun yang dilindungi sandi.
